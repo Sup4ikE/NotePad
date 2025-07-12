@@ -20,3 +20,4 @@ Notepad Pro is a C# Windows Forms application for creating and managing simple t
 ---
 ✅ Completed  
 
+This was a personal learning project.
