@@ -1,21 +1,22 @@
-# Notepad Pro
-
 Notepad Pro is a C# Windows Forms application for creating and managing simple text notes with multi-language support.
 
-⚙️ Features
-- Create, edit, view, and delete notes
-- Each note contains a title and body
-- Notes are saved locally (e.g., in JSON or SQLite, depending on implementation)
-- Switch between supported interface languages
-- Simple and user-friendly Windows Forms UI
+⚙️ **Features**
+---
+- Create, edit, view, and delete notes  
+- Each note contains a title and body  
+- Switch between supported interface languages  
+- Notes are saved locally (e.g., JSON or SQLite)  
+- User-friendly Windows Forms interface  
 
-🧰 Technologies Used
-- C# (.NET 8)
-- Windows Forms (WinForms)
-- JSON file handling / SQLite (depending on your setup)
-- LINQ
-- Git & GitHub
+🧰 **Technologies Used**
+---
+- C# (.NET 8)  
+- Windows Forms (WinForms)  
+- JSON file handling / SQLite  
+- LINQ  
+- Git & GitHub  
 
-📌 Project Status
-✅ Completed
+📌 **Project Status**
+---
+✅ Completed  
 
